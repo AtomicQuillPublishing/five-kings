@@ -1,5 +1,4 @@
-# five-kings
-A dice game for D&amp;D 5e
+<p align="center"><img src="https://i.imgur.com/ZTUnPfJ.png"></p>
 
 
 ## Changelog:
