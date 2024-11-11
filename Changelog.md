@@ -8,6 +8,7 @@
 - Removed unnecessary or redundant rules to improve gameplay flow.
 
 ### version 0.9
+[Read the PDF](https://drive.google.com/file/d/1x_knbgl3VvliDPNPxn-y2BoYpWA7YVWn/view?usp=drive_link)
 - Initial release of the game.
 - Basic, unformatted PDF with a plain white background.
 - Added introductory and concluding text sections.
