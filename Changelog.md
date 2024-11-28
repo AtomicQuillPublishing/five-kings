@@ -1,7 +1,7 @@
 # Changelog:
 
 ### version 1.0
-[Read the PDF]()
+[Read the PDF](https://drive.google.com/file/d/1G0nM2aB_hByj_HsblBbdwHXjIQgcL9KI/view?usp=drive_link)
 - Introduced new rules for using a standard d8 die.
 - Updated the PDF trade dress for a cleaner look.
 - Revised and clarified rule explanations for better understanding.
