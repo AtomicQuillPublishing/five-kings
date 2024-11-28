@@ -2,7 +2,7 @@
 
 ### version 1.1
 [Read the PDF](https://drive.google.com/file/d/1fygm5fvkdaZaaKEUEAqRW4-ITZtXnt14/view?usp=drive_link)
-- Added OGL to the book
+- Added [Open Gaming License](https://github.com/AtomicQuillPublishing/five-kings/blob/main/ogl.md) (OGL) to the book 
 
 ### version 1.0
 [Read the PDF](https://drive.google.com/file/d/1G0nM2aB_hByj_HsblBbdwHXjIQgcL9KI/view?usp=drive_link)
